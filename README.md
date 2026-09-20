@@ -45,11 +45,13 @@ la implementación correspondiente a su propia clase.
 
 ## Pruebas
 
-### Prueba de la Membresía Básica y Premium
+### Membresía Básica
 
 ![Prueba de la membresía básica](MemBasica.png)
 
 Para ambas membresías, se realizaron pruebas con casos donde los miembros tenían 10, 1 y 0 visitas/pases restantes, demostrando el comportamiento esperado en cada caso.
+
+### Membresía Premium
 
 ![Prueba de la membresía premium](MemPremium.png)
 
